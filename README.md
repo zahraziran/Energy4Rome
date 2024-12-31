@@ -1,5 +1,7 @@
 # Energy4Rome
-Energy4Rome/Supporting Energy Consumption Prediction: A Sustainable Approach
+#Energy4Rome/Supporting Energy Consumption Prediction: A Sustainable Approach
+
+
 The Energy4Rome dataset is a novel collection of real-world data focused on energy consumption in social mass-housing residential buildings in Rome, Italy. These buildings, characterized by a linear multistory typology, were extensively constructed during the post-World War II urban expansion period. Energy4Rome includes two years of detailed energy consumption data (January 2022–December 2023) from four housing complexes: Tor Bella Monaca, Tor Sapienza, Quartaccio, and Laurentino 38. The dataset was built using comprehensive on-site data collection, including energy bills and resident surveys, which provide insights into daily energy use patterns, consumption habits, and appliance usage. Photos of these buildings are included to give context to the dataset’s origins.
 
 
